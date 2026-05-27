@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "IS61WV20488FBLL-10TLI") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/IS61WV20488FBLL-10TLI.kicad_sym") (options "") (descr ""))
+)
